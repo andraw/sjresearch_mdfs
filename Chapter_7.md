@@ -60,7 +60,8 @@ N.B The \<Escape> key may be pressed at any stage to abort an operation and retu
 
 ### 7.3.2 A - Alter parameters
 This option sets some stored parameters which are held in the Battery-backed RAM in the MDFS. They control the operation of the serial printer and the floppy disc drives. The program will display the following menu:
-````
+
+```
           ALTER PARAMETERS
           
     Any changes will take effect
