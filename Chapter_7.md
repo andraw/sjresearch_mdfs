@@ -110,8 +110,9 @@ Key in a number between 1 and 8 to change the Baud rate to suit the serial print
       1 - Xon/Xoff
       2 - None
     Current setting: 0
-    Option (0 .. 2) ?
+    Option (0..2) ?
 ```
+
 The final parameter set by this command is the step rate for the floppy discs. If the step rate is set too fast for a drive, the system will revert to the slowest speed. The options available are:
 ```
     Floppy disc drive parameters:
