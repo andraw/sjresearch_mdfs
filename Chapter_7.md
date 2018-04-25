@@ -84,7 +84,9 @@ This option sets some stored parameters which are held in the Battery-backed RAM
     1 -    75
     Current setting: 7
     Option : (1 - 8)?
+
 ```
+
 Key in a number between 1 and 8 to change the Baud rate to suit the serial printer connected to the MDFS.  The system will then ask for the number of data bits per character, whether parity and stop bits are required to be sent, and what sort of handshake mode is appropriate. The most common values are shown here, and are the ones selected when the station number is reset (as described in §7.4).
 
 ```
